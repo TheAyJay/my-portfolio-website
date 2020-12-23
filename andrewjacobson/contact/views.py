@@ -44,7 +44,7 @@ def contact_index(request):
                 # Try sending the email
                 try:
                     # Send email using send_mail function
-                    send_mail(subject, message, settings.EMAIL_HOST_USER, ['andrew@andrewjacobson.dev'], fail_silently=False,)
+                    send_mail(subject, message, settings.EMAIL_HOST_USER, ['andrew@andrewjacobson.dev'], fail_silently=False)
                     # Add code here for success message
                     messages.success(request, 'Message sent!')
                     return HttpResponseRedirect('/contact/')
@@ -52,8 +52,11 @@ def contact_index(request):
                     # Add code here for failure message
                     messages.failure(request, 'Uhh, what are you doing?')
                     return HttpResponseRedirect('/contact/')
-                except:
-                    message.sucess(request, 'Your message was sent!')
+                except Exception as e:
+                    print(e)
+                    # Display this anyway - we at least stored the message
+                    # Could add code to email admin that message was saved, but not emailed
+                    messages.success(request, 'Your message was sent!')
                     return HttpResponseRedirect('/contact/')
             else:
                 messages.success(request, 'Message sent! ;)')
