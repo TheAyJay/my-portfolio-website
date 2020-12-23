@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4c9d26a-d42b-4d5c-b5c7-406a2db1f4be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/myprojects/static/myprojects/img/covid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprojects/static/myprojects/img/lookit-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprojects/static/myprojects/img/lookit-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprojects/static/myprojects/img/lookit-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprojects/static/myprojects/img/pc-build.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprojects/static/myprojects/img/restaurant-1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprojects/static/myprojects/img/snc-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprojects/static/myprojects/img/snc-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprojects/static/myprojects/img/snc-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprojects/static/myprojects/img/warehouse-1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprojects/static/myprojects/img/warehouse-2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprojects/static/myprojects/img/warehouse-3.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myexperience/static/myexperience/myexperience.js" beforeDir="false" afterPath="$PROJECT_DIR$/myexperience/static/myexperience/myexperience.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myprojects/static/myprojects/img/pc-build.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myprojects/static/myprojects/img/raspberry-pi.png" beforeDir="false" afterPath="$PROJECT_DIR$/myprojects/static/myprojects/img/raspberry-pi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/myexperience/myexperience.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/myexperience/myexperience.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1aLunp8gLz4SyfH4pxe6ijQRyvG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -36,14 +54,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/andrewjacobson/static/css" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PythonProjects\andrewjacobson\site\andrewjacobson" />
       <recent name="C:\PythonProjects\andrewjacobson\site\andrewjacobson\myprojects\static\myprojects" />
       <recent name="C:\PythonProjects\andrewjacobson\site\andrewjacobson\contact" />
       <recent name="C:\PythonProjects\andrewjacobson\site\andrewjacobson\andrewjacobson\static\css" />
       <recent name="C:\PythonProjects\andrewjacobson\site\andrewjacobson\andrewjacobson" />
-      <recent name="C:\PythonProjects\andrewjacobson\site\andrewjacobson\static\css" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\PythonProjects\andrewjacobson\site\andrewjacobson\andrewjacobson\static\css" />
@@ -68,23 +87,19 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1201" y="318" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586773540599">
-      <screen x="-1920" y="-5" width="1920" height="1040" />
-    </state>
-    <state x="-1201" y="318" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-5.1920.1040/0.0.1920.1040@-1920.-5.1920.1040" timestamp="1586773540599" />
     <state x="-1180" y="270" key="FileChooserDialogImpl" timestamp="1595096328267">
       <screen x="-1920" y="-5" width="1920" height="1040" />
     </state>
     <state x="-1180" y="270" key="FileChooserDialogImpl/-1920.-5.1920.1040/0.0.1920.1040@-1920.-5.1920.1040" timestamp="1595096328267" />
     <state x="740" y="275" key="FileChooserDialogImpl/-1920.-5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589874569549" />
+    <state x="-1459" y="157" key="SettingsEditor" timestamp="1595664864335">
+      <screen x="-1920" y="-5" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="157" key="SettingsEditor/-1920.-5.1920.1040/0.0.1920.1040@-1920.-5.1920.1040" timestamp="1595664864335" />
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589101436917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.-5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589101436917" />
-    <state x="-1263" y="113" width="606" height="804" key="find.popup" timestamp="1586686985064">
-      <screen x="-1920" y="-5" width="1920" height="1040" />
-    </state>
-    <state x="-1263" y="113" width="606" height="804" key="find.popup/-1920.-5.1920.1040/0.0.1920.1040@-1920.-5.1920.1040" timestamp="1586686985064" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
